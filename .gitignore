@@ -6,3 +6,6 @@ data_KMA_PM10/
 
 ## 개인 Key 노출 금지로 인한 업로드 지양
 str_key_KMA.txt
+
+## macOS local metadata
+.DS_Store
